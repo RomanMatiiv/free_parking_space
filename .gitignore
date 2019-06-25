@@ -1,4 +1,5 @@
 
+*.DS_Store
 # add weights to ignore
 
 *.pb
