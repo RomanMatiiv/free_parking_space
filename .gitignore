@@ -1,6 +1,6 @@
 *.ipynb_checkpoints
 *.DS_Stor
-
+*.idea/
 
 # add weights to ignore
 
