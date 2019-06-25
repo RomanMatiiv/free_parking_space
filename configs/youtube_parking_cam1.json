@@ -1,0 +1,27 @@
+
+{
+  "spaces": {
+    "space1": {
+      "x": 893,
+      "y": 411,
+      "w": 81,
+      "h": 87,
+      "free": false
+    },
+    "space2": {
+      "x": 831,
+      "y": 122,
+      "w": 39,
+      "h": 61,
+      "free": false
+    },
+    "space3": {
+      "x": 873,
+      "y": 115,
+      "w": 42,
+      "h": 57,
+      "free": false
+    }
+  },
+  "min_size_object": 1300
+}
