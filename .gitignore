@@ -1,5 +1,5 @@
 *.ipynb_checkpoints
-*.DS_Stor
+*.DS_Store
 *.idea/
 
 # add weights to ignore
