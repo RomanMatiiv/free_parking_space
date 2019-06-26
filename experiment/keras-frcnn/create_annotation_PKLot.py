@@ -36,7 +36,6 @@ with open(PATH_TO_OUTPUT, "w") as f:
         root = tree.getroot()
 
         for elem in root:
-
             try:
                 elem.attrib["occupied"]
             except KeyError:
